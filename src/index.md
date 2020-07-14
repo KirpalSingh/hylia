@@ -9,7 +9,8 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
+While we have extensive history with Wordpress, we use a range of technologies, including Python and React, to provide the best tools for your application.
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
+From early-stage strategy and product roadmaps to architecture, visual design, and code-agnostic development, we can fill in your product gaps in a comprehensive, low-risk way.
 
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Areas and services: Web development, Mobile Development, Blockchain Development, Smart Contracts Development, CRM development, Healthcare, Real Estate

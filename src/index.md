@@ -2,8 +2,9 @@
 layout: home
 title: We build websites. ecommerce websites, marketing websites that work on
   phones and computers.
-metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
-  own blog or personal website.
+metaDesc: While we have extensive history with Wordpress, we use a range of
+  technologies, including Python and React, to provide the best tools for your
+  application.
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
